@@ -8,7 +8,7 @@ A responsive e-commerce catalog application for browsing phones, tablets, and ac
 
 ## Design Reference
 
-- [Figma Design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=sC3i0yxigH9Bjs09-0)[cite: 18]
+- [Figma Design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=sC3i0yxigH9Bjs09-0)
 
 ## Technologies Used
 
